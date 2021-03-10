@@ -1,0 +1,93 @@
+{
+  "project_info": {
+    "project_number": "441632469512",
+    "firebase_url": "https://punekr-9ea63.firebaseio.com",
+    "project_id": "punekr-9ea63",
+    "storage_bucket": "punekr-9ea63.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:441632469512:android:a0d95041b0feea650157bd",
+        "android_client_info": {
+          "package_name": "com.punekr.punekr_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "441632469512-81ns2ebu559m4btlg6hihhk5qjaf03hp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.punekr.punekr_app",
+            "certificate_hash": "6ca607b46a2d83655c9f78b179f4cdca59221c49"
+          }
+        },
+        {
+          "client_id": "441632469512-eoo26igbejoqfaeve2bi3f56c3ihrll0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.punekr.punekr_app",
+            "certificate_hash": "bdd3072512cb95af27512f0edfb4ba09fef8aa48"
+          }
+        },
+        {
+          "client_id": "441632469512-1f87db63fnqmt0ub06jisd2gb6nesiha.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_jq2GTSosLhlcdN9ifdfXcZux7buTUVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "441632469512-1f87db63fnqmt0ub06jisd2gb6nesiha.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:441632469512:android:b5ce78bbd578ee010157bd",
+        "android_client_info": {
+          "package_name": "com.techrapp.punekr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "441632469512-gha7t5663upevfq9od6510uu3699r9un.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.techrapp.punekr",
+            "certificate_hash": "bdd3072512cb95af27512f0edfb4ba09fef8aa48"
+          }
+        },
+        {
+          "client_id": "441632469512-1f87db63fnqmt0ub06jisd2gb6nesiha.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_jq2GTSosLhlcdN9ifdfXcZux7buTUVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "441632469512-1f87db63fnqmt0ub06jisd2gb6nesiha.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
