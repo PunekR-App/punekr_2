@@ -2,6 +2,7 @@ import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/rendering.dart';
+import 'package:punekr/DisplayVendor.dart';
 import 'package:punekr/Pages/PageData.dart';
 
 class Grid extends StatefulWidget {
@@ -148,9 +149,14 @@ class _BCardState extends State<BCard> {
                                       padding: const EdgeInsets.all(8.0),
                                       child: Text('Contact: ' + snapshot.data.docs[index]['contact_details'], textAlign: TextAlign.start,),
                                     ),
+                                    Padding(
+                                      padding: const EdgeInsets.all(8.0),
+
+
+                                      ),
                                   ],
                                 ),
-                              )
+                              ),
 
                             ],
                           ),
